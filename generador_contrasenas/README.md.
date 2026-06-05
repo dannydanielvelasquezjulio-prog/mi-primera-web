@@ -1,0 +1,7 @@
+# Generador de Contraseñas
+Este es un proyecto sencillo en Python para generar contraseñas seguras y aleatorias.
+
+## Características
+* Permite elegir la longitud de la contraseña.
+* Incluye letras, números y caracteres especiales.
+* Ejecución rápida desde la terminal de Ubuntu.
